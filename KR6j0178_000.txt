@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大雲輪請雨經
+#+DATE: 2015-08-30 20:27:22.275828
+#+PROPERTY: JUAN 0
