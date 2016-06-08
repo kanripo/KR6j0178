@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:22.003664
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:29
 #+TITLE: 大雲輪請雨經
 #+PROPERTY: CBETA_ID T19n0991
 #+PROPERTY: ID KR6j0178
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 991
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0178_T_002-0497a> ¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大雲輪請雨經卷下¶
+大雲輪請雨經卷下¶
 ¶
 隋天竺三藏那連提耶舍譯¶
 
@@ -224,7 +223,7 @@
 又說呪曰。¶
 
 迦邏迦邏(一)抧利抧利(二)句嚧句嚧(去聲三)陀囉¶
-陀囉(一)地利地利(二)豆漏豆嚧(三)那吒那吒(一)¶
+陀囉(一)地利地利(二)豆漏豆嚧三(三)那吒那吒(一)¶
 膩(年一反)[口*致]膩[口*致]膩(二)奴晝奴晝(三)¶
 
 持大雲雨疾行之者如雲者。著雲衣者生雲¶
