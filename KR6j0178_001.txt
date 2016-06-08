@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:23.316959
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:29
 #+TITLE: 大雲輪請雨經
 #+PROPERTY: CBETA_ID T19n0991
 #+PROPERTY: ID KR6j0178
